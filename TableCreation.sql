@@ -1,6 +1,3 @@
-
-
-
 -- 1 - Create a database with name airlinemanagementsystem;
 
 create database airlinemanagementsystem;

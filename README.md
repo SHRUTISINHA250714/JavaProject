@@ -21,7 +21,7 @@ An Airline Management System is a software application developed to streamline a
 1. Clone or download the repository.
 2. Open the project in NetBeans IDE.
 3. Make sure your MySQL Server is running.
-4. Set up the database tables using the provided SQL scripts.
+4. Set up the database by executing the provided `TableCreation.sql` script.
 5. Update the database connection settings inside `Conn.java`.
 6. Run the `Home.java` file to start the application.
 
